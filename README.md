@@ -1,1 +1,1 @@
-"# python_office" 
+这个是学习python而建立的目录。这个目录后续用于归档常见的python办公的学习
